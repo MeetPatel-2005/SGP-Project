@@ -1,3 +1,2 @@
 # SGP-Project
-SGP - Project 1 :- Web Development.
-yuggjhg
+SGP - Project 1 :- Web Development
